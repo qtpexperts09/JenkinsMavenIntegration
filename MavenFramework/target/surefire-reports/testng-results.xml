@@ -56,22 +56,22 @@
       <![CDATA[Priority of this method is->2]]>
     </line>
     <line>
-      <![CDATA[testScreenShot04-08-2018_10-34-29.jpg]]>
+      <![CDATA[testScreenShot08-08-2018_08-13-43.jpg]]>
     </line>
     <line>
       <![CDATA[END Of Execution(TEST)->Page Obejct model Using Maven]]>
     </line>
   </reporter-output>
-  <suite name="Maven Selenium Testng Test" duration-ms="33188" started-at="2018-08-04T05:03:58Z" finished-at="2018-08-04T05:04:31Z">
+  <suite name="Maven Selenium Testng Test" duration-ms="34830" started-at="2018-08-08T02:43:11Z" finished-at="2018-08-08T02:43:46Z">
     <groups>
     </groups>
-    <test name="Page Obejct model Using Maven" duration-ms="33188" started-at="2018-08-04T05:03:58Z" finished-at="2018-08-04T05:04:31Z">
+    <test name="Page Obejct model Using Maven" duration-ms="34830" started-at="2018-08-08T02:43:11Z" finished-at="2018-08-08T02:43:46Z">
       <class name="com.automation.maven.tests.DemoTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="setUp" is-config="true" duration-ms="10375" started-at="2018-08-04T10:33:58Z" finished-at="2018-08-04T10:34:09Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="setUp" is-config="true" duration-ms="9555" started-at="2018-08-08T08:13:12Z" finished-at="2018-08-08T08:13:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="test1" duration-ms="6430" started-at="2018-08-04T10:34:09Z" finished-at="2018-08-04T10:34:15Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="test1" duration-ms="6987" started-at="2018-08-08T08:13:21Z" finished-at="2018-08-08T08:13:28Z">
           <reporter-output>
             <line>
               <![CDATA[Test Pass Name->test1]]>
@@ -93,7 +93,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="TearDown" is-config="true" duration-ms="2446" started-at="2018-08-04T10:34:15Z" finished-at="2018-08-04T10:34:18Z">
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="TearDown" is-config="true" duration-ms="2108" started-at="2018-08-08T08:13:28Z" finished-at="2018-08-08T08:13:30Z">
           <params>
             <param index="0">
               <value>
@@ -104,11 +104,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="setUp" is-config="true" duration-ms="7202" started-at="2018-08-04T10:34:18Z" finished-at="2018-08-04T10:34:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="setUp" is-config="true" duration-ms="7444" started-at="2018-08-08T08:13:30Z" finished-at="2018-08-08T08:13:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="test2()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="test2" duration-ms="3895" started-at="2018-08-04T10:34:25Z" finished-at="2018-08-04T10:34:29Z">
+        <test-method status="FAIL" signature="test2()[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="test2" duration-ms="5796" started-at="2018-08-08T08:13:38Z" finished-at="2018-08-08T08:13:43Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"id","selector":"ap_customer_name"}
@@ -119,8 +119,8 @@ For documentation on this error, please visit: http://seleniumhq.org/exceptions/
 Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
 System info: host: 'DESKTOP-L76EM7G', ip: '192.168.230.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\ANSHIK~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
-Session ID: d0e87a78ebe3c04c716fed2ecaf74718
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f22530313dbe2d937958d50793d7f296
 *** Element info: {Using=id, value=ap_customer_name}]]>
             </message>
             <full-stacktrace>
@@ -132,8 +132,8 @@ For documentation on this error, please visit: http://seleniumhq.org/exceptions/
 Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
 System info: host: 'DESKTOP-L76EM7G', ip: '192.168.230.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\ANSHIK~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
-Session ID: d0e87a78ebe3c04c716fed2ecaf74718
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: f22530313dbe2d937958d50793d7f296
 *** Element info: {Using=id, value=ap_customer_name}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -211,7 +211,7 @@ Session ID: d0e87a78ebe3c04c716fed2ecaf74718
             </line>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="TearDown" is-config="true" duration-ms="2808" started-at="2018-08-04T10:34:29Z" finished-at="2018-08-04T10:34:31Z">
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.automation.maven.tests.DemoTest@3d24753a]" name="TearDown" is-config="true" duration-ms="2850" started-at="2018-08-08T08:13:43Z" finished-at="2018-08-08T08:13:46Z">
           <params>
             <param index="0">
               <value>
@@ -221,7 +221,7 @@ Session ID: d0e87a78ebe3c04c716fed2ecaf74718
           </params>
           <reporter-output>
             <line>
-              <![CDATA[testScreenShot04-08-2018_10-34-29.jpg]]>
+              <![CDATA[testScreenShot08-08-2018_08-13-43.jpg]]>
             </line>
           </reporter-output>
         </test-method> <!-- TearDown -->
